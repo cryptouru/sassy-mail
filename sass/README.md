@@ -54,6 +54,3 @@ Removes unnecesary CSS and adds it to head of new tidy.html file and creates new
 Removes comments from generated CSS files, removes unnecesary CSS and adds it to head of new tidy.html file and creates new email-inline.html file
 
 [Premailer](https://github.com/premailer/premailer/) will be used for inlining
-
-
-
